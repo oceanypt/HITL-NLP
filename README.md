@@ -1,4 +1,5 @@
-# HITL-NLP
+# A collection for Interactive NLP
 
-## paper
-### link
+This is a collection for the research of interactive NLP, inlcuding papers, datasets, etc.
+
+
