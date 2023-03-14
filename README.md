@@ -6,7 +6,6 @@
 ## Surveys
 
 [**Putting Humans in the Natural Language Processing Loop: A Survey**](https://aclanthology.org/2021.hcinlp-1.8.pdf) 
-<br/> Zijie J. Wang, Dongjin Choi, Shenyu Xu, Diyi Yang <br/>
-<br/> Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing <br/>
+<br/> Zijie J. Wang, Dongjin Choi, Shenyu Xu, Diyi Yang <br/> _Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing_ <br/>
 
 
