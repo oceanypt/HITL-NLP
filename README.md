@@ -8,88 +8,59 @@ Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in
 
 
 
+## Papers
 Ge Gao and Eunsol Choi and Yoav Artzi. [**Simulating Bandit Learning from User Feedback for Extractive Question Answering**](https://doi.org/10.18653/v1/2022.acl-long.355). _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), {ACL} 2022, Dublin, Ireland, May 22-27, 2022_ <br/>
 
 
-
-[**Putting Humans in the Natural Language Processing Loop: A Survey**](https://aclanthology.org/2021.hcinlp-1.8.pdf). <br/> Zijie J. Wang, Dongjin Choi, Shenyu Xu, Diyi Yang <br/> _Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing_ <br/>
-
-
-## Papers
-[**Socially situated artificial intelligence enables learning from human interaction**](https://www.pnas.org/doi/pdf/10.1073/pnas.2115730119). <br/> Ranjay Krishna, Donsuk Lee, Li Fei-Fei, Michael S. Bernstein <br/> _PNAS 2022_ <br/>
-
-[**Simulating Bandit Learning from User Feedback for Extractive Question Answering**](https://aclanthology.org/2022.acl-long.355.pdf). <br/> Ge Gao, Eunsol Choi, Yoav Artzi <br/> _ACL (1) 2022_ <br/>
-
-[**Improving conversational question answering systems after deployment using feedbackweighted learning.**](). <br/> Jon Ander Campos, Kyunghyun Cho, Arantxa Otegi,
-Aitor Soroa Etxabe, Gorka Azkune, and Eneko Agirre <br/> _COLING 2020_ <br/>
+Krishna, Ranjay and Lee, Donsuk and Fei-Fei, Li and Bernstein, Michael S. [**Socially situated artificial intelligence enables learning from human interaction**](https://www.pnas.org/doi/abs/10.1073/pnas.2115730119). _Proceedings of the National Academy of Sciences, 119, 2022_ <br/>
 
 
-[**Feedback attribution for counterfactual bandit learning in multidomain spoken language understanding**](). <br/> Tobias Falke and Patrick Lehnen <br/> _EMNLP 2021_ <br/> 
-
-[**Human-centric dialog training via offline reinforcement learning**](). <br/> Natasha Jaques, Judy Hanwen Shen, Asma Ghandeharioun, Craig Ferguson, Agata Lapedriza, Noah
-Jones, Shixiang Gu, and Rosalind Picard <br/> EMNLP 2020 <br/>
+Jon Ander Campos and Kyunghyun Cho and Arantxa Otegi and Aitor Soroa and Eneko Agirre and Gorka Azkune. [**Improving Conversational Question Answering Systems after Deployment using Feedback-Weighted Learning**](https://doi.org/10.18653/v1/2020.coling-main.230). _Proceedings of the 28th International Conference on Computational Linguistics, {COLING} 2020, Barcelona, Spain (Online), December 8-13, 2020_ <br/>
 
 
-Ge Gao and Eunsol Choi and Yoav Artzi [**Simulating Bandit Learning from User Feedback for Extractive Question Answering**](https://doi.org/10.18653/v1/2022.acl-long.355) Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), {ACL} 2022, Dublin, Ireland, May 22-27, 2022
+Tobias Falke and Patrick Lehnen. [**Feedback Attribution for Counterfactual Bandit Learning in Multi-Domain Spoken Language Understanding**](https://doi.org/10.18653/v1/2021.emnlp-main.91). _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2021, Virtual Event / Punta Cana, Dominican Republic, 7-11 November, 2021_ <br/>
 
 
-Noriyuki Kojima, Alane Suhr, and Yoav Artzi. 2021.
-Continual learning for grounded instruction generation by observing human following behavior. TACL.
+Natasha Jaques and Judy Hanwen Shen and Asma Ghandeharioun and Craig Ferguson and {\`{A}}gata Lapedriza and Noah Jones and Shixiang Gu and Rosalind W. Picard. [**Human-centric dialog training via offline reinforcement learning**](https://doi.org/10.18653/v1/2020.emnlp-main.327). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
 
-Bernhard Kratzwald, Stefan Feuerriegel, and Huan Sun.
-2020. Learning a cost-effective annotation policy
-for question answering. EMNLP.
+Noriyuki Kojima and Alane Suhr and Yoav Artzi. [**Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior**](https://doi.org/10.1162/tacl\_a\_00428). _Trans. Assoc. Comput. Linguistics, 9, 2021_ <br/>
 
-Julia Kreutzer, Shahram Khadivi, Evgeny Matusov,
-and Stefan Riezler. 2018a. Can neural machine translation be improved with user feedback?
-NAACL.
 
-Julia Kreutzer, Joshua Uyheng, and Stefan Riezler.
-2018b. Reliability and learnability of human bandit
-feedback for sequence-to-sequence reinforcement
-learning. ACL.
+Bernhard Kratzwald and Stefan Feuerriegel and Huan Sun. [**Learning a Cost-Effective Annotation Policy for Question Answering**](https://doi.org/10.18653/v1/2020.emnlp-main.246). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
-Carolin Lawrence and Stefan Riezler. 2018. Improving
-a neural semantic parser by counterfactual learning
-from human bandit feedback. ACL.
 
-Carolin (Haas) Lawrence, Artem Sokolov, and Stefan
-Riezler. 2017. Counterfactual learning from bandit
-feedback under deterministic logging : A case study
-in statistical machine translation.
+Julia Kreutzer and Shahram Khadivi and Evgeny Matusov and Stefan Riezler. [**Can Neural Machine Translation be Improved with User Feedback?**](https://doi.org/10.18653/v1/n18-3012). _Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, {NAACL-HLT} 2018, New Orleans, Louisiana, USA, June 1-6, 2018, Volume 3 (Industry Papers)_ <br/>
 
-Vania Mendoncca, Ricardo Rei, Luísa Coheur,
-A. Sardinha, Ana L’ucia Santos INESC-ID Lisboa,
-Instituto Superior T’ecnico, AI Unbabel, Centro
-de Lingu’istica da Universidade de Lisboa, and Faculdade de Ciencias de Universidade de Lisboa. 2021.
-Online learning meets machine translation evaluation: Finding the best systems with the least human
-effort. ACL/IJCNLP.
 
-Volodymyr Mnih, Koray Kavukcuoglu, David Silver,
-Andrei A Rusu, Joel Veness, Marc G Bellemare,
-Alex Graves, Martin Riedmiller, Andreas K Fidjeland, and Georg Ostrovski. 2015. Human-level control through deep reinforcement learning. Nature,
-518(7540).
+Julia Kreutzer and Joshua Uyheng and Stefan Riezler. [**Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning**](https://aclanthology.org/P18-1165/). _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, {ACL} 2018, Melbourne, Australia, July 15-20, 2018, Volume 1: Long Papers_ <br/>
 
-Khanh Nguyen, Hal Daumé, and Jordan L. BoydGraber. 2017. Reinforcement learning for bandit
-neural machine translation with simulated human
-feedback. EMNLP.
 
-Artem Sokolov, Julia Kreutzer, Christopher Lo, and
-Stefan Riezler. 2016. Learning structured predictors
-from bandit feedback for interactive nlp. ACL.
+Carolin Lawrence and Stefan Riezler. [**Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback**](https://aclanthology.org/P18-1169/). _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, {ACL} 2018, Melbourne, Australia, July 15-20, 2018, Volume 1: Long Papers_ <br/>
 
-Artem Sokolov, Julia Kreutzer, Kellen Sunderland,
-Pavel Danchenko, Witold Szymaniak, Hagen Fürstenau, and Stefan Riezler. 2017. A shared task on bandit learning for machine translation. WMT.
 
-Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M.
-Ziegler, Ryan J. Lowe, Chelsea Voss, Alec Radford,
-Dario Amodei, and Paul Christiano. 2020. Learning
-to summarize from human feedback. NeurIPS.
+Carolin Lawrence and Artem Sokolov and Stefan Riezler. [**Counterfactual Learning from Bandit Feedback under Deterministic Logging : {A} Case Study in Statistical Machine Translation**](https://doi.org/10.18653/v1/d17-1272). _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2017, Copenhagen, Denmark, September 9-11, 2017_ <br/>
 
-Ziyu Yao, Yiqi Tang, Wen-tau Yih, Huan Sun, and
-Yu Su. 2020. An imitation game for learning semantic parsers from user interaction. EMNLP.
 
+V{\^{a}}nia Mendon{\c{c}}a and Ricardo Rei and Lu{\'{\i}}sa Coheur and Alberto Sardinha and Ana L{\'{u}}cia Santos. [**Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort**](https://doi.org/10.18653/v1/2021.acl-long.242). _Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, {ACL/IJCNLP} 2021, (Volume 1: Long Papers), Virtual Event, August 1-6, 2021_ <br/>
+
+
+Volodymyr Mnih and Koray Kavukcuoglu and David Silver and Andrei A. Rusu and Joel Veness and Marc G. Bellemare and Alex Graves and Martin A. Riedmiller and Andreas Fidjeland and Georg Ostrovski and Stig Petersen and Charles Beattie and Amir Sadik and Ioannis Antonoglou and Helen King and Dharshan Kumaran and Daan Wierstra and Shane Legg and Demis Hassabis. [**Human-level control through deep reinforcement learning**](https://doi.org/10.1038/nature14236). _Nat., 518, 2015_ <br/>
+
+
+Khanh Nguyen and Hal Daum{\'{e}} III and Jordan L. Boyd{-}Graber. [**Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**](https://doi.org/10.18653/v1/d17-1153). _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2017, Copenhagen, Denmark, September 9-11, 2017_ <br/>
+
+
+Artem Sokolov and Julia Kreutzer and Christopher Lo and Stefan Riezler. [**Learning Structured Predictors from Bandit Feedback for Interactive {NLP}**](https://doi.org/10.18653/v1/p16-1152). _Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, {ACL} 2016, August 7-12, 2016, Berlin, Germany, Volume 1: Long Papers_ <br/>
+
+
+Artem Sokolov and Julia Kreutzer and Kellen Sunderland and Pavel Danchenko and Witold Szymaniak and Hagen F{\"{u}}rstenau and Stefan Riezler. [**A Shared Task on Bandit Learning for Machine Translation**](https://doi.org/10.18653/v1/w17-4756). _Proceedings of the Second Conference on Machine Translation, {WMT} 2017, Copenhagen, Denmark, September 7-8, 2017_ <br/>
+
+
+Nisan Stiennon and Long Ouyang and Jeff Wu and Daniel M. Ziegler and Ryan Lowe and Chelsea Voss and Alec Radford and Dario Amodei and Paul F. Christiano. [**Learning to summarize from human feedback**](https://arxiv.org/abs/2009.01325). _CoRR, abs/2009.01325, 2020_ <br/>
+
+
+Ziyu Yao and Yiqi Tang and Wen{-}tau Yih and Huan Sun and Yu Su. [**An Imitation Game for Learning Semantic Parsers from User Interaction**](https://doi.org/10.18653/v1/2020.emnlp-main.559). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
 
 
