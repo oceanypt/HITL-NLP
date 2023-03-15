@@ -1,6 +1,12 @@
-# A collection for Human-in-the-loop NLP
+# A collection of Interactive NLP
 
-👋 This is a collection for the research of interactive NLP, inlcuding papers, datasets, etc.
+👋 This is a collection for the research of interactive NLP, inlcuding surveys, papers, etc.
+
+## What is interactive NLP? 
+
+> Interactive Learning for NLP means training, fine-tuning or otherwise adapting an NLP model to inputs from a human user or teacher. Relevant approaches range from active learning with a human in the loop, to training with implicit user feedback (e.g. clicks), dialogue systems that adapt to user utterances, and training with new forms of human input. Interactive learning is the converse of  learning from datasets collected offline with no human input during the training process.
+
+
 
 
 ## Workshops
@@ -17,7 +23,7 @@ Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in
 Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
 ## Papers
-Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _The Eleventh International Conference on Learning Representations_ <br/>
+Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _The Eleventh International Conference on Learning Representations, 2023_ <br/>
 
 Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and Y{-}Lan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
 
