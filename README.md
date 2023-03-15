@@ -13,15 +13,15 @@
 ## :notebook_with_decorative_cover: Workshops
 * [**2nd workshop on data science with human-in-the-loop: language advances(DaSH-LA)**]( https://sites.google.com/view/dash-la2021/home) <br/>
 
-[**1st workshop on interactive learning for natural language processing**](https://sites.google.com/view/internlp2021/background-references) <br/>
+* [**1st workshop on interactive learning for natural language processing**](https://sites.google.com/view/internlp2021/background-references) <br/>
 
-[**2st workshop on interactive learning for natural language processing**](https://internlp.github.io/background_references.html) <br/>
+* [**2st workshop on interactive learning for natural language processing**](https://internlp.github.io/background_references.html) <br/>
 
 
 ## :blue_book: Surveys
-⋅⋅⋅*Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
+* Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
-Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
+* Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
 ## :books: Papers
 Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _ICLR, 2023_ <br/>
