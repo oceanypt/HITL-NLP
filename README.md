@@ -8,7 +8,7 @@
 
 
 ## Quick Links
-  - [:notebook_with_decorative_cover: Workshops](#workshop)
+  - [:notebook_with_decorative_cover: Workshops](#:notebook_with_decorative_cover:-workshops)
 
 
 
