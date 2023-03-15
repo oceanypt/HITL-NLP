@@ -4,8 +4,12 @@
 
 
 ## Surveys
+Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR.abs/2103.04044.2021_ <br/>
+
+
 
 Ge Gao and Eunsol Choi and Yoav Artzi. [**Simulating Bandit Learning from User Feedback for Extractive Question Answering**](https://doi.org/10.18653/v1/2022.acl-long.355). _Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), {ACL} 2022, Dublin, Ireland, May 22-27, 2022_ <br/>
+
 
 
 [**Putting Humans in the Natural Language Processing Loop: A Survey**](https://aclanthology.org/2021.hcinlp-1.8.pdf). <br/> Zijie J. Wang, Dongjin Choi, Shenyu Xu, Diyi Yang <br/> _Proceedings of the First Workshop on Bridging Human–Computer Interaction and Natural Language Processing_ <br/>
