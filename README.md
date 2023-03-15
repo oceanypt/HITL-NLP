@@ -30,6 +30,8 @@ The collection will be updated continually.
 
 * Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and YLan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
 
+* Rongzhi Zhang and Yue Yu and Pranav Shetty and Le Song and Chao Zhang. [**PRBoost: Prompt-Based Rule Discovery and Boosting for Interactive Weakly-Supervised Learning**](https://doi.org/10.48550/arXiv.2203.09735). _ACL, 2022_ <br/>
+
 
 * Mina Lee and Megha Srivastava and Amelia Hardy and John Thickstun and Esin Durmus and Ashwin Paranjape and Ines Gerard-Ursin and Xiang Lisa Li and Faisal Ladhak and Frieda Rong and Rose E. Wang and Minae Kwon and Joon Sung Park and Hancheng Cao and Tony Lee and Rishi Bommasani and Michael S. Bernstein and Percy Liang. [**Evaluating Human-Language Model Interaction**](https://doi.org/10.48550/arXiv.2212.09746). _CoRR, abs/2212.09746, 2022_ <br/>
 
