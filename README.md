@@ -11,7 +11,7 @@
 
 
 ## :notebook_with_decorative_cover: Workshops
-⋅⋅⋅*[**2nd workshop on data science with human-in-the-loop: language advances(DaSH-LA)**]( https://sites.google.com/view/dash-la2021/home) <br/>
+* [**2nd workshop on data science with human-in-the-loop: language advances(DaSH-LA)**]( https://sites.google.com/view/dash-la2021/home) <br/>
 
 [**1st workshop on interactive learning for natural language processing**](https://sites.google.com/view/internlp2021/background-references) <br/>
 
