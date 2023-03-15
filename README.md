@@ -1,8 +1,8 @@
 # A collection of Interactive NLP
 
-👋 This is a collection for the research of interactive NLP, inlcuding surveys, papers, etc.
+👋 Hi, there. This is a collection of papers, surveys, etc for the research of interactive NLP.
 
-## What is interactive NLP? 
+## :thinking: What is interactive NLP? 
 
 > Interactive Learning for NLP means training, fine-tuning or otherwise adapting an NLP model to inputs from a human user or teacher. Relevant approaches range from active learning with a human in the loop, to training with implicit user feedback (e.g. clicks), dialogue systems that adapt to user utterances, and training with new forms of human input. Interactive learning is the converse of  learning from datasets collected offline with no human input during the training process.
 
