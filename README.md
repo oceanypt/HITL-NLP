@@ -1,4 +1,4 @@
-# A collection of Interactive NLP
+# 🩺 Awesome Interactive NLP
 
 👋 Hi, there. This is a collection of papers, surveys, etc for the research of interactive NLP.
 
