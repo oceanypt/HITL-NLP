@@ -7,6 +7,9 @@
 > Interactive Learning for NLP means training, fine-tuning or otherwise adapting an NLP model to inputs from a human user or teacher. Relevant approaches range from active learning with a human in the loop, to training with implicit user feedback (e.g. clicks), dialogue systems that adapt to user utterances, and training with new forms of human input. Interactive learning is the converse of  learning from datasets collected offline with no human input during the training process.
 
 
+## Quick Links
+  - [:notebook_with_decorative_cover: Workshops](#workshop)
+
 
 
 ## :notebook_with_decorative_cover: Workshops
@@ -17,12 +20,12 @@
 [**2st workshop on interactive learning for natural language processing**](https://internlp.github.io/background_references.html) <br/>
 
 
-## :books: Surveys
+## :blue_book: Surveys
 Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
 Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
-## Papers
+## :books: Papers
 Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _The Eleventh International Conference on Learning Representations, 2023_ <br/>
 
 Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and Y{-}Lan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
