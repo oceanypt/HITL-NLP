@@ -2,6 +2,8 @@
 
 👋 Hi, there. This is a collection of papers, surveys, etc for the research of interactive NLP.
 
+The collection will be updated continually. 
+
 ## :thinking: What is interactive NLP? 
 
 > Interactive Learning for NLP means training, fine-tuning or otherwise adapting an NLP model to inputs from a human user or teacher. Relevant approaches range from active learning with a human in the loop, to training with implicit user feedback (e.g. clicks), dialogue systems that adapt to user utterances, and training with new forms of human input. Interactive learning is the converse of  learning from datasets collected offline with no human input during the training process.
@@ -26,10 +28,10 @@
 ## :books: Papers
 * Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _ICLR, 2023_ <br/>
 
-* Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and Y{-}Lan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
+* Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and YLan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
 
 
-* Mina Lee and Megha Srivastava and Amelia Hardy and John Thickstun and Esin Durmus and Ashwin Paranjape and Ines Gerard{-}Ursin and Xiang Lisa Li and Faisal Ladhak and Frieda Rong and Rose E. Wang and Minae Kwon and Joon Sung Park and Hancheng Cao and Tony Lee and Rishi Bommasani and Michael S. Bernstein and Percy Liang. [**Evaluating Human-Language Model Interaction**](https://doi.org/10.48550/arXiv.2212.09746). _CoRR, abs/2212.09746, 2022_ <br/>
+* Mina Lee and Megha Srivastava and Amelia Hardy and John Thickstun and Esin Durmus and Ashwin Paranjape and Ines Gerard-Ursin and Xiang Lisa Li and Faisal Ladhak and Frieda Rong and Rose E. Wang and Minae Kwon and Joon Sung Park and Hancheng Cao and Tony Lee and Rishi Bommasani and Michael S. Bernstein and Percy Liang. [**Evaluating Human-Language Model Interaction**](https://doi.org/10.48550/arXiv.2212.09746). _CoRR, abs/2212.09746, 2022_ <br/>
 
 
 * Long Ouyang and Jeff Wu and Xu Jiang and Diogo Almeida and Carroll L. Wainwright and Pamela Mishkin and Chong Zhang and Sandhini Agarwal and Katarina Slama and Alex Ray and John Schulman and Jacob Hilton and Fraser Kelton and Luke Miller and Maddie Simens and Amanda Askell and Peter Welinder and Paul F. Christiano and Jan Leike and Ryan Lowe. [**Training language models to follow instructions with human feedback**](https://doi.org/10.48550/arXiv.2203.02155). _CoRR, abs/2203.02155, 2022_ <br/>
@@ -44,11 +46,10 @@
 * Jeff Wu and Long Ouyang and Daniel M. Ziegler and Nisan Stiennon and Ryan Lowe and Jan Leike and Paul F. Christiano. [**Recursively Summarizing Books with Human Feedback**](https://arxiv.org/abs/2109.10862). _CoRR, abs/2109.10862, 2021_ <br/>
 
 
-
 * Reiichiro Nakano and Jacob Hilton and Suchir Balaji and Jeff Wu and Long Ouyang and Christina Kim and Christopher Hesse and Shantanu Jain and Vineet Kosaraju and William Saunders and Xu Jiang and Karl Cobbe and Tyna Eloundou and Gretchen Krueger and Kevin Button and Matthew Knight and Benjamin Chess and John Schulman. [**WebGPT: Browser-assisted question-answering with human feedback**](https://arxiv.org/abs/2112.09332). _CoRR, abs/2112.09332, 2021_ <br/>
 
 
-* V{\^{a}}nia Mendon{\c{c}}a and Ricardo Rei and Lu{\'{\i}}sa Coheur and Alberto Sardinha and Ana L{\'{u}}cia Santos. [**Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort**](https://doi.org/10.18653/v1/2021.acl-long.242). _Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, {ACL/IJCNLP} 2021, (Volume 1: Long Papers), Virtual Event, August 1-6, 2021_ <br/>
+* Vania Mendonca and Ricardo Rei and Luisa Coheur and Alberto Sardinha and Ana Lucia Santos. [**Online Learning Meets Machine Translation Evaluation: Finding the Best Systems with the Least Human Effort**](https://doi.org/10.18653/v1/2021.acl-long.242). _Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing, {ACL/IJCNLP} 2021, (Volume 1: Long Papers), Virtual Event, August 1-6, 2021_ <br/>
 
 
 * Noriyuki Kojima and Alane Suhr and Yoav Artzi. [**Continual Learning for Grounded Instruction Generation by Observing Human Following Behavior**](https://doi.org/10.1162/tacl\_a\_00428). _Trans. Assoc. Comput. Linguistics, 9, 2021_ <br/>
@@ -62,7 +63,7 @@
 * Ahmed Elgohary and Saghar Hosseini and Ahmed Hassan Awadallah. [**Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback**](https://doi.org/10.18653/v1/2020.acl-main.187). _Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, {ACL} 2020, Online, July 5-10, 2020_ <br/>
 
 
-* Liat Ein{-}Dor and Alon Halfon and Ariel Gera and Eyal Shnarch and Lena Dankin and Leshem Choshen and Marina Danilevsky and Ranit Aharonov and Yoav Katz and Noam Slonim. [**Active Learning for {BERT:} An Empirical Study**](https://doi.org/10.18653/v1/2020.emnlp-main.638). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
+* Liat Ein-Dor and Alon Halfon and Ariel Gera and Eyal Shnarch and Lena Dankin and Leshem Choshen and Marina Danilevsky and Ranit Aharonov and Yoav Katz and Noam Slonim. [**Active Learning for {BERT:} An Empirical Study**](https://doi.org/10.18653/v1/2020.emnlp-main.638). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
 
 
@@ -71,14 +72,14 @@
 
 
 
-* Natasha Jaques and Judy Hanwen Shen and Asma Ghandeharioun and Craig Ferguson and {\`{A}}gata Lapedriza and Noah Jones and Shixiang Gu and Rosalind W. Picard. [**Human-centric dialog training via offline reinforcement learning**](https://doi.org/10.18653/v1/2020.emnlp-main.327). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
+* Natasha Jaques and Judy Hanwen Shen and Asma Ghandeharioun and Craig Ferguson and Agata Lapedriza and Noah Jones and Shixiang Gu and Rosalind W. Picard. [**Human-centric dialog training via offline reinforcement learning**](https://doi.org/10.18653/v1/2020.emnlp-main.327). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
 
 
 * Nisan Stiennon and Long Ouyang and Jeff Wu and Daniel M. Ziegler and Ryan Lowe and Chelsea Voss and Alec Radford and Dario Amodei and Paul F. Christiano. [**Learning to summarize from human feedback**](https://arxiv.org/abs/2009.01325). _CoRR, abs/2009.01325, 2020_ <br/>
 
 
-* Ziyu Yao and Yiqi Tang and Wen{-}tau Yih and Huan Sun and Yu Su. [**An Imitation Game for Learning Semantic Parsers from User Interaction**](https://doi.org/10.18653/v1/2020.emnlp-main.559). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
+* Ziyu Yao and Yiqi Tang and Wen-tau Yih and Huan Sun and Yu Su. [**An Imitation Game for Learning Semantic Parsers from User Interaction**](https://doi.org/10.18653/v1/2020.emnlp-main.559). _Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2020, Online, November 16-20, 2020_ <br/>
 
 
 
@@ -98,10 +99,10 @@
 * Carolin Lawrence and Stefan Riezler. [**Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback**](https://aclanthology.org/P18-1169/). _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, {ACL} 2018, Melbourne, Australia, July 15-20, 2018, Volume 1: Long Papers_ <br/>
 
 
-* Khanh Nguyen and Hal Daum{\'{e}} III and Jordan L. Boyd{-}Graber. [**Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**](https://doi.org/10.18653/v1/d17-1153). _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2017, Copenhagen, Denmark, September 9-11, 2017_ <br/>
+* Khanh Nguyen and Hal Daume III and Jordan L. Boyd-Graber. [**Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback**](https://doi.org/10.18653/v1/d17-1153). _Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, {EMNLP} 2017, Copenhagen, Denmark, September 9-11, 2017_ <br/>
 
 
-* Artem Sokolov and Julia Kreutzer and Kellen Sunderland and Pavel Danchenko and Witold Szymaniak and Hagen F{\"{u}}rstenau and Stefan Riezler. [**A Shared Task on Bandit Learning for Machine Translation**](https://doi.org/10.18653/v1/w17-4756). _Proceedings of the Second Conference on Machine Translation, {WMT} 2017, Copenhagen, Denmark, September 7-8, 2017_ <br/>
+* Artem Sokolov and Julia Kreutzer and Kellen Sunderland and Pavel Danchenko and Witold Szymaniak and Hagen Furstenau and Stefan Riezler. [**A Shared Task on Bandit Learning for Machine Translation**](https://doi.org/10.18653/v1/w17-4756). _Proceedings of the Second Conference on Machine Translation, {WMT} 2017, Copenhagen, Denmark, September 7-8, 2017_ <br/>
 
 
 
