@@ -4,7 +4,7 @@
 
 
 ## Surveys
-Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR.abs/2103.04044.2021_ <br/>
+Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
 
 
