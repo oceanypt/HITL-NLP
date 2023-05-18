@@ -27,6 +27,8 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Hai Ye, Qizhe Xie, Hwee Tou Ng. [**Multi-Source Test-Time Adaptation as Dueling Bandits for Extractive Question Answering**](). _ACL 2023_ <br/>
+
 * Yan H, Srivastava S, Tai Y, Wang SI, Yih WT, Yao Z. [**Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing**](https://arxiv.org/pdf/2305.08195.pdf). _ACL 2023_ <br/>
 
 * Akyürek AF, Akyürek E, Madaan A, Kalyan A, Clark P, Wijaya D, Tandon N. [**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**](https://arxiv.org/pdf/2305.08844.pdf). _ACL 2023_ <br/>
