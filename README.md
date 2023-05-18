@@ -26,6 +26,12 @@ The collection will be updated continually.
 * Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
 ## :books: Papers
+
+* Yan H, Srivastava S, Tai Y, Wang SI, Yih WT, Yao Z. [**Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing**](https://arxiv.org/pdf/2305.08195.pdf). _ACL 2023_ <br/>
+
+* Akyürek AF, Akyürek E, Madaan A, Kalyan A, Clark P, Wijaya D, Tandon N. [**RL4F: Generating Natural Language Feedback with Reinforcement Learning for Repairing Model Outputs**](https://arxiv.org/pdf/2305.08844.pdf). _ACL 2023_ <br/>
+
+
 * Jérémy Scheurer, Jon Ander Campos, Tomasz Korbak, Jun Shern Chan, Angelica Chen, Kyunghyun Cho, Ethan Perez. [**Training Language Models with Language Feedback at Scale**](https://arxiv.org/pdf/2303.16755.pdf). _axXiv, 2023_ <br/>
 
 
