@@ -21,11 +21,15 @@ The collection will be updated continually.
 
 
 ## :blue_book: Surveys
+
 * Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
 * Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
 ## :books: Papers
+
+* Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023 May 17_ <br/>
+
 
 * Hai Ye, Qizhe Xie, Hwee Tou Ng. [**Multi-Source Test-Time Adaptation as Dueling Bandits for Extractive Question Answering**](). _ACL 2023_ <br/>
 
