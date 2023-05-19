@@ -26,14 +26,18 @@ The collection will be updated continually.
 
 * Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
 
+## :notebook_with_decorative_cover: Blogs
+* [**Illustrating Reinforcement Learning from Human Feedback (RLHF)**](https://huggingface.co/blog/rlhf) <br/>
+
+
 ## :books: Papers
 
-* Yuan Z, Yuan H, Tan C, Wang W, Huang S, Huang F. [**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**](https://arxiv.org/pdf/2304.05302.pdf). _arXiv preprint 2023 Apr 11_
+* Yuan Z, Yuan H, Tan C, Wang W, Huang S, Huang F. [**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**](https://arxiv.org/pdf/2304.05302.pdf). _arXiv preprint 2023 Apr 11_ <br/>
 
-* Sun Z, Shen Y, Zhou Q, Zhang H, Chen Z, Cox D, Yang Y, Gan C. [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://arxiv.org/pdf/2305.03047.pdf). _arXiv preprint 2023 May 4_
+* Sun Z, Shen Y, Zhou Q, Zhang H, Chen Z, Cox D, Yang Y, Gan C. [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://arxiv.org/pdf/2305.03047.pdf). _arXiv preprint 2023 May 4_ <br/>
 
 
-* Wang Y, Kordi Y, Mishra S, Liu A, Smith NA, Khashabi D, Hajishirzi H. [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf). _ACL 2023_.
+* Wang Y, Kordi Y, Mishra S, Liu A, Smith NA, Khashabi D, Hajishirzi H. [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf). _ACL 2023_. <br/>
 
 
 * Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023 May 17_ <br/>
