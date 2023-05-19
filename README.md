@@ -1,23 +1,10 @@
-# 🩺 Awesome Interactive NLP
+# 🩺 Collection of Alignments for Large Language Models and Beyond
 
-👋 Hi, there. This is a collection of papers, surveys, etc for the research of interactive NLP.
+👋 Hi, there. This is a collection of papers, surveys, etc for the research of language model alignments and beyond. 
+
+Mostly, I will cover learning from human feedback, interactive NLP, and language model alignments.
 
 The collection will be updated continually. 
-
-## :thinking: What is interactive NLP? 
-
-> Interactive Learning for NLP means training, fine-tuning or otherwise adapting an NLP model to inputs from a human user or teacher. Relevant approaches range from active learning with a human in the loop, to training with implicit user feedback (e.g. clicks), dialogue systems that adapt to user utterances, and training with new forms of human input. Interactive learning is the converse of  learning from datasets collected offline with no human input during the training process.
-
-
-
-
-
-## :notebook_with_decorative_cover: Workshops
-* [**2nd workshop on data science with human-in-the-loop: language advances(DaSH-LA)**]( https://sites.google.com/view/dash-la2021/home) <br/>
-
-* [**1st workshop on interactive learning for natural language processing**](https://sites.google.com/view/internlp2021/background-references) <br/>
-
-* [**2st workshop on interactive learning for natural language processing**](https://internlp.github.io/background_references.html) <br/>
 
 
 ## :blue_book: Surveys
@@ -42,7 +29,6 @@ The collection will be updated continually.
 
 
 * Wang Y, Kordi Y, Mishra S, Liu A, Smith NA, Khashabi D, Hajishirzi H. [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf). _ACL 2023_. <br/>
-
 
 * Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023 May 17_ <br/>
 
