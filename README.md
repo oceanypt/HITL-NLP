@@ -29,6 +29,10 @@ The collection will be updated continually.
 ## :notebook_with_decorative_cover: Blogs
 * [**Illustrating Reinforcement Learning from Human Feedback (RLHF)**](https://huggingface.co/blog/rlhf) <br/>
 
+## :blue_book: Projects
+* [**PandaLM: Reproducible and Automated Language Model Assessment**](https://github.com/WeOpenML/PandaLM#data) <br/>
+* [**Constrained Value-Aligned LLM via Safe RLHF**](https://github.com/PKU-Alignment/safe-rlhf) <br/>
+* [**Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings**](https://lmsys.org/blog/2023-05-03-arena/) <br/>
 
 ## :books: Papers
 
