@@ -28,6 +28,14 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Yuan Z, Yuan H, Tan C, Wang W, Huang S, Huang F. [**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**](https://arxiv.org/pdf/2304.05302.pdf). _arXiv preprint 2023 Apr 11_
+
+* Sun Z, Shen Y, Zhou Q, Zhang H, Chen Z, Cox D, Yang Y, Gan C. [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://arxiv.org/pdf/2305.03047.pdf). _arXiv preprint 2023 May 4_
+
+
+* Wang Y, Kordi Y, Mishra S, Liu A, Smith NA, Khashabi D, Hajishirzi H. [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf). _ACL 2023_.
+
+
 * Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023 May 17_ <br/>
 
 
@@ -42,6 +50,8 @@ The collection will be updated continually.
 
 
 * Sean Welleck and Ximing Lu and Peter West and Faeze Brahman and Tianxiao Shen and Daniel Khashabi and Yejin Choi. [**Generating Sequences by Learning to Self-Correct**](https://openreview.net/forum?id=hH36JeQZDaO). _ICLR, 2023_ <br/>
+
+* Yuntao Bai, Saurav Kadavath, Sandipan Kundu, Amanda Askell, Jackson Kernion, Andy Jones, Anna Chen, Anna Goldie, Azalia Mirhoseini, Cameron McKinnon, etc. [**Constitutional ai: Harmlessness from ai feedback**](https://arxiv.org/pdf/2212.08073.pdf). arXiv preprint arXiv:2212.08073.
 
 * Kurt Shuster and Jing Xu and Mojtaba Komeili and Da Ju and Eric Michael Smith and Stephen Roller and Megan Ung and Moya Chen and Kushal Arora and Joshua Lane and Morteza Behrooz and William Ngan and Spencer Poff and Naman Goyal and Arthur Szlam and YLan Boureau and Melanie Kambadur and Jason Weston. [**BlenderBot 3: a deployed conversational agent that continually learns to responsibly engage**](https://doi.org/10.48550/arXiv.2208.03188). _CoRR, abs/2208.03188, 2022_ <br/>
 
