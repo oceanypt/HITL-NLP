@@ -23,15 +23,15 @@ The collection will be updated continually.
 
 ## :books: Papers
 
-* Yuan Z, Yuan H, Tan C, Wang W, Huang S, Huang F. [**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**](https://arxiv.org/pdf/2304.05302.pdf). _arXiv preprint 2023 Apr 11_ <br/>
+* Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy. [**LIMA: Less Is More for Alignment**](https://arxiv.org/pdf/2305.11206.pdf). _arXiv preprint 2023_ <br/>
 
-* Sun Z, Shen Y, Zhou Q, Zhang H, Chen Z, Cox D, Yang Y, Gan C. [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://arxiv.org/pdf/2305.03047.pdf). _arXiv preprint 2023 May 4_ <br/>
+* Yuan Z, Yuan H, Tan C, Wang W, Huang S, Huang F. [**RRHF: Rank Responses to Align Language Models with Human Feedback without tears**](https://arxiv.org/pdf/2304.05302.pdf). _arXiv preprint 2023_ <br/>
 
+* Sun Z, Shen Y, Zhou Q, Zhang H, Chen Z, Cox D, Yang Y, Gan C. [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://arxiv.org/pdf/2305.03047.pdf). _arXiv preprint 2023_ <br/>
 
 * Wang Y, Kordi Y, Mishra S, Liu A, Smith NA, Khashabi D, Hajishirzi H. [**Self-Instruct: Aligning Language Model with Self Generated Instructions**](https://arxiv.org/pdf/2212.10560.pdf). _ACL 2023_. <br/>
 
-* Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023 May 17_ <br/>
-
+* Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023_ <br/>
 
 * Hai Ye, Qizhe Xie, Hwee Tou Ng. [**Multi-Source Test-Time Adaptation as Dueling Bandits for Extractive Question Answering**](). _ACL 2023_ <br/>
 
