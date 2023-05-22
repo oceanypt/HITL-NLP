@@ -1,4 +1,4 @@
-# 🩺 Collection of Alignments for Large Language Models and Beyond
+# 🩺 A Collection of Alignments for Large Language Models and Beyond
 
 👋 Hi, there. This is a collection of papers, surveys, etc for the research of language model alignments and beyond. 
 
