@@ -20,8 +20,12 @@ The collection will be updated continually.
 * [**PandaLM: Reproducible and Automated Language Model Assessment**](https://github.com/WeOpenML/PandaLM#data) <br/>
 * [**Constrained Value-Aligned LLM via Safe RLHF**](https://github.com/PKU-Alignment/safe-rlhf) <br/>
 * [**Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings**](https://lmsys.org/blog/2023-05-03-arena/) <br/>
+* [**AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html) <br/>
+
 
 ## :books: Papers
+
+* Sungdong Kim, Sanghwan Bae, Jamin Shin, Soyoung Kang, Donghyun Kwak, Kang Min Yoo, Minjoon Se [**Aligning Large Language Models through Synthetic Feedback**](https://arxiv.org/pdf/2305.13735.pdf). _arXiv preprint 2023_ <br/> 
 
 * Chunting Zhou, Pengfei Liu, Puxin Xu, Srini Iyer, Jiao Sun, Yuning Mao, Xuezhe Ma, Avia Efrat, Ping Yu, Lili Yu, Susan Zhang, Gargi Ghosh, Mike Lewis, Luke Zettlemoyer, Omer Levy. [**LIMA: Less Is More for Alignment**](https://arxiv.org/pdf/2305.11206.pdf). _arXiv preprint 2023_ <br/>
 
