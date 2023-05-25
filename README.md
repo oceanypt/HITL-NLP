@@ -9,6 +9,9 @@ The collection will be updated continually.
 
 ## :blue_book: Surveys
 
+* Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [**Interactive Natural Language Processing**](https://arxiv.org/pdf/2305.13246.pdf). _arXiv preprint 2023_ <br/>
+
+
 * Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
 * Settles, Burr. [**Active learning literature survey**](https://minds.wisconsin.edu/bitstream/handle/1793/60660/TR1648.pdf?sequence=1). _arXiv, 0, 2009_ <br/>
@@ -24,6 +27,8 @@ The collection will be updated continually.
 
 
 ## :books: Papers
+
+* Da Yin, Xiao Liu, Fan Yin, Ming Zhong, Hritik Bansal, Jiawei Han, Kai-Wei Chang. [**Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation**](https://arxiv.org/pdf/2305.14327.pdf). _arXiv preprint 2023_ <br/>
 
 * Sungdong Kim, Sanghwan Bae, Jamin Shin, Soyoung Kang, Donghyun Kwak, Kang Min Yoo, Minjoon Se [**Aligning Large Language Models through Synthetic Feedback**](https://arxiv.org/pdf/2305.13735.pdf). _arXiv preprint 2023_ <br/> 
 
