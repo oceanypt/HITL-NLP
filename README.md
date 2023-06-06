@@ -28,7 +28,11 @@ The collection will be updated continually.
 
 ## :books: Papers
 
-* Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Fin. [**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**](https://arxiv.org/pdf/2305.18290.pdf). _arXiv preprint 2023_ <br/>
+* Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Fin. [**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**](https://arxiv.org/pdf/2305.18290.pdf). _arXiv preprint 2023_ 
+```
+Comparing to PPO, DPO directly uses the preference data to optimize the model, without learning a reward model. Thus, the drawback of DPO is that DPO can not utilize data without human preference. You can understand DPO as a supervised learning method, but PPO is a semi-supervised learning method. 
+```
+<br/>
 
 * Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi. [**Training Socially Aligned Language Models in Simulated Human Society**](https://arxiv.org/pdf/2305.16960.pdf). _arXiv preprint 2023_ <br/>
 
@@ -46,7 +50,7 @@ The collection will be updated continually.
 
 * Zhao Y, Joshi R, Liu T, Khalman M, Saleh M, Liu PJ. [**SLiC-HF: Sequence Likelihood Calibration with Human Feedback**](https://arxiv.org/pdf/2305.10425.pdf). _arXiv preprint arXiv:2305.10425. 2023_ <br/>
 
-* Hai Ye, Qizhe Xie, Hwee Tou Ng. [**Multi-Source Test-Time Adaptation as Dueling Bandits for Extractive Question Answering**](). _ACL 2023_ <br/>
+
 
 * Yan H, Srivastava S, Tai Y, Wang SI, Yih WT, Yao Z. [**Learning to Simulate Natural Language Feedback for Interactive Semantic Parsing**](https://arxiv.org/pdf/2305.08195.pdf). _ACL 2023_ <br/>
 
