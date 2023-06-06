@@ -28,6 +28,8 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Fin. [**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**](https://arxiv.org/pdf/2305.18290.pdf). _arXiv preprint 2023_ <br/>
+
 * Ruibo Liu, Ruixin Yang, Chenyan Jia, Ge Zhang, Denny Zhou, Andrew M. Dai, Diyi Yang, Soroush Vosoughi. [**Training Socially Aligned Language Models in Simulated Human Society**](https://arxiv.org/pdf/2305.16960.pdf). _arXiv preprint 2023_ <br/>
 
 * Da Yin, Xiao Liu, Fan Yin, Ming Zhong, Hritik Bansal, Jiawei Han, Kai-Wei Chang. [**Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation**](https://arxiv.org/pdf/2305.14327.pdf). _arXiv preprint 2023_ <br/>
