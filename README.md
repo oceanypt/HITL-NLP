@@ -28,6 +28,8 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Yuxin Jiang, Chunkit Chan, Mingyang Chen, Wei Wang. [**Lion: Adversarial Distillation of Closed-Source Large Language Model**](https://arxiv.org/pdf/2305.12870.pdf). _arXiv preprint 2023_ </br>
+
 * Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Fin. [**Direct Preference Optimization: Your Language Model is Secretly a Reward Model**](https://arxiv.org/pdf/2305.18290.pdf). _arXiv preprint 2023_ 
 
 > Comparing to PPO, DPO directly uses the preference data to optimize the model, without learning a reward model.
