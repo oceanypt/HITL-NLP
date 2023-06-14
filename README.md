@@ -29,6 +29,8 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jian. [**WizardLM: Empowering Large Language Models to Follow Complex Instructions**](https://arxiv.org/pdf/2304.12244.pdf). _arXiv preprint 2023_ </br>
+
 * Yizhong Wang, Hamish Ivison, Pradeep Dasigi, Jack Hessel, Tushar Khot, Khyathi Raghavi Chandu, David Wadden, Kelsey MacMillan, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi. [**How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources**](https://arxiv.org/pdf/2306.04751.pdf). _arXiv preprint 2023_ </br>
 
 * Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang. [**PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization**](https://arxiv.org/pdf/2306.05087.pdf).  _arXiv preprint 2023_ </br>
