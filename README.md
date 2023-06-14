@@ -27,6 +27,9 @@ The collection will be updated continually.
 
 
 ## :books: Papers
+
+* Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang. [**PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization**](https://arxiv.org/pdf/2306.05087.pdf).  _arXiv preprint 2023_ </br>
+
 * Yew Ken Chia, Pengfei Hong, Lidong Bing, Soujanya Poria. [**INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models**](https://arxiv.org/pdf/2306.04757.pdf).  _arXiv preprint 2023_ </br>
 
 * Yuxin Jiang, Chunkit Chan, Mingyang Chen, Wei Wang. [**Lion: Adversarial Distillation of Closed-Source Large Language Model**](https://arxiv.org/pdf/2305.12870.pdf). _arXiv preprint 2023_ </br>
