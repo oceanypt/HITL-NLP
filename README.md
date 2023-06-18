@@ -29,6 +29,10 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica. [**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**](https://arxiv.org/pdf/2306.05685.pdf). _arXiv preprint 2023_ </br>
+
+* Peiyi Wang, Lei Li, Liang Chen, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui. [**Large Language Models are not Fair Evaluators**](https://arxiv.org/pdf/2305.17926.pdf). _arXiv preprint 2023_ </br>
+
 * Can Xu, Qingfeng Sun, Kai Zheng, Xiubo Geng, Pu Zhao, Jiazhan Feng, Chongyang Tao, Daxin Jian. [**WizardLM: Empowering Large Language Models to Follow Complex Instructions**](https://arxiv.org/pdf/2304.12244.pdf). _arXiv preprint 2023_ </br>
 
 * Yizhong Wang, Hamish Ivison, Pradeep Dasigi, Jack Hessel, Tushar Khot, Khyathi Raghavi Chandu, David Wadden, Kelsey MacMillan, Noah A. Smith, Iz Beltagy, Hannaneh Hajishirzi. [**How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources**](https://arxiv.org/pdf/2306.04751.pdf). _arXiv preprint 2023_ </br>
