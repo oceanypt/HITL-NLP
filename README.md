@@ -28,7 +28,7 @@ The collection will be updated continually.
 
 
 ## :books: Papers
-Zeqiu Wu, Yushi Hu, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. [**Fine-Grained Human Feedback Gives Better Rewards for Language Model Training**](https://arxiv.org/pdf/2306.01693.pdf). _arXiv preprint 2023_ </br>
+* Zeqiu Wu, Yushi Hu, Weijia Shi, Nouha Dziri, Alane Suhr, Prithviraj Ammanabrolu, Noah A Smith, Mari Ostendorf, Hannaneh Hajishirzi. [**Fine-Grained Human Feedback Gives Better Rewards for Language Model Training**](https://arxiv.org/pdf/2306.01693.pdf). _arXiv preprint 2023_ </br>
 
 * Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric. P Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica. [**Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**](https://arxiv.org/pdf/2306.05685.pdf). _arXiv preprint 2023_ </br>
 
