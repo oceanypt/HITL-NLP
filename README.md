@@ -26,8 +26,12 @@ The collection will be updated continually.
 * [**AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html) </br>
 * [**An Automatic Evaluator for Instruction-following Language Models**](https://tatsu-lab.github.io/alpaca_eval/) </br>
 
+* [**Large-scale, Informative, and Diverse Multi-round Dialogue Data, and Models**](https://github.com/thunlp/UltraChat) </br>
+
 
 ## :books: Papers
+
+* Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah. [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/pdf/2306.02707.pdf) _arXiv preprint 2023_ </be>
 
 * Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song. [**The False Promise of Imitating Proprietary LLMs**](https://arxiv.org/pdf/2305.15717.pdf). _arXiv preprint 2023_ </br>
 
