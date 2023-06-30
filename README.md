@@ -31,7 +31,9 @@ The collection will be updated continually.
 
 ## :books: Papers
 
-* Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah. [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/pdf/2306.02707.pdf) _arXiv preprint 2023_ </be>
+* Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts. [**The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**](https://arxiv.org/pdf/2301.13688.pdf) _arXiv preprint 2023_ </br>
+
+* Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah. [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/pdf/2306.02707.pdf) _arXiv preprint 2023_ </br>
 
 * Arnav Gudibande, Eric Wallace, Charlie Snell, Xinyang Geng, Hao Liu, Pieter Abbeel, Sergey Levine, Dawn Song. [**The False Promise of Imitating Proprietary LLMs**](https://arxiv.org/pdf/2305.15717.pdf). _arXiv preprint 2023_ </br>
 
