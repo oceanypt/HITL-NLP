@@ -28,6 +28,7 @@ The collection will be updated continually.
 
 * [**Large-scale, Informative, and Diverse Multi-round Dialogue Data, and Models**](https://github.com/thunlp/UltraChat) </br>
 
+* [**The Open Orca Dataset**](https://huggingface.co/datasets/Open-Orca/OpenOrca) </br>
 
 ## :books: Papers
 
