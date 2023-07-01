@@ -30,6 +30,11 @@ The collection will be updated continually.
 
 * [**The Open Orca Dataset**](https://huggingface.co/datasets/Open-Orca/OpenOrca) </br>
 
+## :blue_book: Leadboards (LLM evaluations)
+
+* [**AlpacaEval**](https://tatsu-lab.github.io/alpaca_eval/) </br>
+
+
 ## :books: Papers
 
 * Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts. [**The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**](https://arxiv.org/pdf/2301.13688.pdf) _arXiv preprint 2023_ </br>
