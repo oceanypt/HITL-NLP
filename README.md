@@ -39,6 +39,8 @@ The collection will be updated continually.
 
 ## :books: Papers
 
+* Wenxuan Zhang, Sharifah Mahani Aljunied, Chang Gao, Yew Ken Chia, Lidong Bing [**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**](https://arxiv.org/pdf/2306.05179.pdf) _arXiv preprint 2023_ </br>
+
 * Shayne Longpre, Le Hou, Tu Vu, Albert Webson, Hyung Won Chung, Yi Tay, Denny Zhou, Quoc V. Le, Barret Zoph, Jason Wei, Adam Roberts. [**The Flan Collection: Designing Data and Methods for Effective Instruction Tuning**](https://arxiv.org/pdf/2301.13688.pdf) _arXiv preprint 2023_ </br>
 
 * Subhabrata Mukherjee, Arindam Mitra, Ganesh Jawahar, Sahaj Agarwal, Hamid Palangi, Ahmed Awadallah. [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/pdf/2306.02707.pdf) _arXiv preprint 2023_ </br>
