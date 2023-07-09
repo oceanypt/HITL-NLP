@@ -33,6 +33,8 @@ The collection will be updated continually.
 ## :blue_book: Leadboards (LLM evaluations)
 
 * [**AlpacaEval**](https://tatsu-lab.github.io/alpaca_eval/) </br>
+* [**instruct-eval**](https://github.com/declare-lab/instruct-eval) </br>
+* [**FastChat**](https://chat.lmsys.org/?leaderboard) </br>
 
 
 ## :books: Papers
