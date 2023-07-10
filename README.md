@@ -19,6 +19,8 @@ The collection will be updated continually.
 ## :notebook_with_decorative_cover: Blogs
 * [**Illustrating Reinforcement Learning from Human Feedback (RLHF)**](https://huggingface.co/blog/rlhf) <br/>
 
+* [**Ten Levels of AI Alignment Difficulty**](https://www.alignmentforum.org/posts/EjgfreeibTXRx9Ham/ten-levels-of-ai-alignment-difficulty) <br/>
+
 ## :blue_book: Projects
 * [**PandaLM: Reproducible and Automated Language Model Assessment**](https://github.com/WeOpenML/PandaLM#data) <br/>
 * [**Constrained Value-Aligned LLM via Safe RLHF**](https://github.com/PKU-Alignment/safe-rlhf) <br/>
