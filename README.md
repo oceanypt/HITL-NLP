@@ -27,10 +27,9 @@ The collection will be updated continually.
 * [**Chatbot Arena: Benchmarking LLMs in the Wild with Elo Ratings**](https://lmsys.org/blog/2023-05-03-arena/) <br/>
 * [**AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback**](https://crfm.stanford.edu/2023/05/22/alpaca-farm.html) </br>
 * [**An Automatic Evaluator for Instruction-following Language Models**](https://tatsu-lab.github.io/alpaca_eval/) </br>
-
 * [**Large-scale, Informative, and Diverse Multi-round Dialogue Data, and Models**](https://github.com/thunlp/UltraChat) </br>
-
 * [**The Open Orca Dataset**](https://huggingface.co/datasets/Open-Orca/OpenOrca) </br>
+* [**面向中文大模型价值观的评估与对齐研究**](https://github.com/X-PLUG/CValues) </br>
 
 ## :blue_book: Leadboards (LLM evaluations)
 
