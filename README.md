@@ -30,6 +30,7 @@ The collection will be updated continually.
 * [**Large-scale, Informative, and Diverse Multi-round Dialogue Data, and Models**](https://github.com/thunlp/UltraChat) </br>
 * [**The Open Orca Dataset**](https://huggingface.co/datasets/Open-Orca/OpenOrca) </br>
 * [**面向中文大模型价值观的评估与对齐研究**](https://github.com/X-PLUG/CValues) </br>
+* [**LEval**](https://github.com/OpenLMLab/LEval/tree/main) </br>
 
 ## :blue_book: Leadboards (LLM evaluations)
 
@@ -39,6 +40,10 @@ The collection will be updated continually.
 
 
 ## :books: Papers
+
+* Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf. [**Frontier AI Regulation: Managing Emerging Risks to Public Safety**](https://arxiv.org/pdf/2307.03718.pdf) _arXiv preprint 2023_ </br>
+
+* Lichang Chen, Shiyang Li, Jun Yan, Hai Wang, Kalpa Gunaratna, Vikas Yadav, Zheng Tang, Vijay Srinivasan, Tianyi Zhou, Heng Huang, Hongxia Jin. [**AlpaGasus: Training A Better Alpaca with Fewer Data**](https://arxiv.org/pdf/2307.08701.pdf) _arXiv preprint 2023_ </br>
 
 * Wenxuan Zhang, Sharifah Mahani Aljunied, Chang Gao, Yew Ken Chia, Lidong Bing [**M3Exam: A Multilingual, Multimodal, Multilevel Benchmark for Examining Large Language Models**](https://arxiv.org/pdf/2306.05179.pdf) _arXiv preprint 2023_ </br>
 
