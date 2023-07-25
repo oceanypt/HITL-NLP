@@ -1,10 +1,7 @@
 # 🩺 A Collection of Alignments for Large Language Models and Beyond
 
-👋 Hi, there. This is a collection of papers, surveys, etc for the research of language model alignments and beyond. 
+👋 This is a collection of papers, surveys, etc for the research of language model alignments and beyond, covering learning from human feedback, interactive NLP, and language model alignments.
 
-Mostly, I will cover learning from human feedback, interactive NLP, and language model alignments.
-
-The collection will be updated continually. 
 
 
 ## :blue_book: Surveys
@@ -40,6 +37,8 @@ The collection will be updated continually.
 
 
 ## :books: Papers
+
+* Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang. [**Preference Ranking Optimization for Human Alignment**](https://arxiv.org/pdf/2306.17492).  _arXiv preprint 2023_ </br>
 
 * Markus Anderljung, Joslyn Barnhart, Anton Korinek, Jade Leung, Cullen O'Keefe, Jess Whittlestone, Shahar Avin, Miles Brundage, Justin Bullock, Duncan Cass-Beggs, Ben Chang, Tantum Collins, Tim Fist, Gillian Hadfield, Alan Hayes, Lewis Ho, Sara Hooker, Eric Horvitz, Noam Kolt, Jonas Schuett, Yonadav Shavit, Divya Siddarth, Robert Trager, Kevin Wolf. [**Frontier AI Regulation: Managing Emerging Risks to Public Safety**](https://arxiv.org/pdf/2307.03718.pdf) _arXiv preprint 2023_ </br>
 
@@ -198,8 +197,6 @@ The collection will be updated continually.
 
 
 
-## To do
-- [ ] Cluster the papers by topics.
 
 
 
