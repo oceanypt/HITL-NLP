@@ -6,6 +6,8 @@
 
 ## :blue_book: Surveys
 
+* Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu. [**Aligning Large Language Models with Human: A Survey**](https://arxiv.org/pdf/2307.12966.pdf). _arXiv preprint 2023_ <br/>
+
 * Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [**Interactive Natural Language Processing**](https://arxiv.org/pdf/2305.13246.pdf). _arXiv preprint 2023_ <br/>
 
 
@@ -38,8 +40,11 @@
 
 ## :books: Papers
 
-* Siddhartha Jain, Xiaofei Ma, Anoop Deoras, Bing Xiang. [**Self-consistency for open-ended generations**](https://arxiv.org/pdf/2307.06857.pdf). _arXiv preprint 2023_ </br>
 
+
+* Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, Dylan Hadfield-Menell. [**Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2307.15217.pdf). _arXiv preprint 2023_ </br>
+
+* Siddhartha Jain, Xiaofei Ma, Anoop Deoras, Bing Xiang. [**Self-consistency for open-ended generations**](https://arxiv.org/pdf/2307.06857.pdf). _arXiv preprint 2023_ </br>
 
 * Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang. [**Preference Ranking Optimization for Human Alignment**](https://arxiv.org/pdf/2306.17492).  _arXiv preprint 2023_ </br>
 
