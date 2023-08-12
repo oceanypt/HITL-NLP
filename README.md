@@ -6,10 +6,16 @@
 
 ## :blue_book: Surveys
 
+
+* Jin Chen, Zheng Liu, Xu Huang, Chenwang Wu, Qi Liu, Gangwei Jiang, Yuanhao Pu, Yuxuan Lei, Xiaolong Chen, Xingmei Wang, Defu Lian, Enhong Chen. [**When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities**](https://arxiv.org/pdf/2307.16376.pdf).  _arXiv preprint 2023_ </br>
+
+* Liangming Pan, Michael Saxon, Wenda Xu, Deepak Nathani, Xinyi Wang, William Yang Wang. [**Automatically Correcting Large Language Models: Surveying the landscape of diverse self-correction strategies**](https://arxiv.org/pdf/2308.03188.pdf).  _arXiv preprint 2023_ </br>
+
+* Yang Liu, Yuanshun Yao, Jean-Francois Ton, Xiaoying Zhang, Ruocheng Guo Hao Cheng, Yegor Klochkov, Muhammad Faaiz Taufiq, Hang Li. [**Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment**](https://arxiv.org/pdf/2308.05374.pdf).  _arXiv preprint 2023_ </br>
+
 * Yufei Wang, Wanjun Zhong, Liangyou Li, Fei Mi, Xingshan Zeng, Wenyong Huang, Lifeng Shang, Xin Jiang, Qun Liu. [**Aligning Large Language Models with Human: A Survey**](https://arxiv.org/pdf/2307.12966.pdf). _arXiv preprint 2023_ <br/>
 
 * Zekun Wang, Ge Zhang, Kexin Yang, Ning Shi, Wangchunshu Zhou, Shaochun Hao, Guangzheng Xiong, Yizhi Li, Mong Yuan Sim, Xiuying Chen, Qingqing Zhu, Zhenzhu Yang, Adam Nik, Qi Liu, Chenghua Lin, Shi Wang, Ruibo Liu, Wenhu Chen, Ke Xu, Dayiheng Liu, Yike Guo, Jie Fu. [**Interactive Natural Language Processing**](https://arxiv.org/pdf/2305.13246.pdf). _arXiv preprint 2023_ <br/>
-
 
 * Zijie J. Wang and Dongjin Choi and Shenyu Xu and Diyi Yang. [**Putting Humans in the Natural Language Processing Loop: {A} Survey**](https://arxiv.org/abs/2103.04044). _CoRR, abs/2103.04044, 2021_ <br/>
 
@@ -40,7 +46,23 @@
 
 ## :books: Papers
 
+* Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo. [**FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**](https://arxiv.org/pdf/2307.10928.pdf). _arXiv preprint 2023_ </br>
 
+* Xiaoxuan Wang, Ziniu Hu, Pan Lu, Yanqiao Zhu, Jieyu Zhang, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang. [**SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models**](https://arxiv.org/pdf/2307.10635.pdf). _arXiv preprint 2023_ </br>
+
+* Kevin Yang, Dan Klein, Asli Celikyilmaz, Nanyun Peng, Yuandong Tian. [**RLCD: Reinforcement Learning from Contrast Distillation for Language Model Alignment**](https://arxiv.org/pdf/2307.12950.pdf). _arXiv preprint 2023_ </br>
+
+* Tomohiro Sawada, Daniel Paleka, Alexander Havrilla, Pranav Tadepalli, Paula Vidas, Alexander Kranias, John J. Nay, Kshitij Gupta, Aran Komatsuzaki. [**ARB: Advanced Reasoning Benchmark for Large Language Models**](https://arxiv.org/pdf/2307.13692.pdf). _arXiv preprint 2023_ </br>
+
+* Neel Jain, Khalid Saifullah, Yuxin Wen, John Kirchenbauer, Manli Shu, Aniruddha Saha, Micah Goldblum, Jonas Geiping, Tom Goldstein. [**Bring Your Own Data! Self-Supervised Evaluation for Large Language Models**](https://arxiv.org/pdf/2306.13651v1.pdf). _arXiv preprint 2023_ </br>
+
+* Chenxin An, Shansan Gong, Ming Zhong, Mukai Li, Jun Zhang, Lingpeng Kong, Xipeng Qiu. [**L-Eval: Instituting Standardized Evaluation for Long Context Language Models**](https://arxiv.org/pdf/2307.11088.pdf).  _arXiv preprint 2023_ </br>
+
+* Shihao Liang, Kunlun Zhu, Runchu Tian, Yujia Qin, Huadong Wang, Xin Cong, Zhiyuan Liu, Xiaojiang Liu, Maosong Sun. [**Exploring Format Consistency for Instruction Tuning**](https://arxiv.org/pdf/2307.15504.pdf). _arXiv preprint 2023_ </br>
+
+* Ruosen Li, Teerth Patel, Xinya Du. [**PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations**](https://arxiv.org/pdf/2307.02762.pdf). _arXiv preprint 2023_ </br>
+
+* Zheng Yuan, Hongyi Yuan, Chengpeng Li, Guanting Dong, Chuanqi Tan, Chang Zhou. [**Scaling Relationship on Learning Mathematical Reasoning with Large Language Models**](https://arxiv.org/pdf/2308.01825.pdf). _arXiv preprint 2023_ </br>
 
 * Stephen Casper, Xander Davies, Claudia Shi, Thomas Krendl Gilbert, Jérémy Scheurer, Javier Rando, Rachel Freedman, Tomasz Korbak, David Lindner, Pedro Freire, Tony Wang, Samuel Marks, Charbel-Raphaël Segerie, Micah Carroll, Andi Peng, Phillip Christoffersen, Mehul Damani, Stewart Slocum, Usman Anwar, Anand Siththaranjan, Max Nadeau, Eric J. Michaud, Jacob Pfau, Dmitrii Krasheninnikov, Xin Chen, Lauro Langosco, Peter Hase, Erdem Bıyık, Anca Dragan, David Krueger, Dorsa Sadigh, Dylan Hadfield-Menell. [**Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2307.15217.pdf). _arXiv preprint 2023_ </br>
 
