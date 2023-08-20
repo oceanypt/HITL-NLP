@@ -46,6 +46,8 @@
 
 ## :books: Papers
 
+* AN Lee, CJ Hunter, N Ruiz. [**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**](https://arxiv.org/pdf/2308.07317.pdf). _arXiv preprint 2023_ </br>
+
 * Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo. [**FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**](https://arxiv.org/pdf/2307.10928.pdf). _arXiv preprint 2023_ </br>
 
 * Xiaoxuan Wang, Ziniu Hu, Pan Lu, Yanqiao Zhu, Jieyu Zhang, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang. [**SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models**](https://arxiv.org/pdf/2307.10635.pdf). _arXiv preprint 2023_ </br>
