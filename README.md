@@ -35,7 +35,8 @@
 * [**Large-scale, Informative, and Diverse Multi-round Dialogue Data, and Models**](https://github.com/thunlp/UltraChat) </br>
 * [**The Open Orca Dataset**](https://huggingface.co/datasets/Open-Orca/OpenOrca) </br>
 * [**面向中文大模型价值观的评估与对齐研究**](https://github.com/X-PLUG/CValues) </br>
-* [**LEval**](https://github.com/OpenLMLab/LEval/tree/main) </br>
+* [**LEval**](https://github.com/OpenLMLab/LEval/tree/main) 
+* [**DeepSpeed-Chat**](https://github.com/microsoft/DeepSpeedExamples/tree/master/applications/DeepSpeed-Chat) </br>
 
 ## :blue_book: Leadboards (LLM evaluations)
 
