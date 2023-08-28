@@ -47,6 +47,8 @@
 
 ## :books: Papers
 
+Jian Hu, Li Tao, June Yang, Chandler Zhou. [**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2308.12050.pdf).  _arXiv preprint 2023_ </br>
+
 * AN Lee, CJ Hunter, N Ruiz. [**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**](https://arxiv.org/pdf/2308.07317.pdf). _arXiv preprint 2023_ </br>
 
 * Seonghyeon Ye, Doyoung Kim, Sungdong Kim, Hyeonbin Hwang, Seungone Kim, Yongrae Jo, James Thorne, Juho Kim, Minjoon Seo. [**FLASK: Fine-grained Language Model Evaluation based on Alignment Skill Sets**](https://arxiv.org/pdf/2307.10928.pdf). _arXiv preprint 2023_ </br>
