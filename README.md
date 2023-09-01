@@ -47,7 +47,7 @@
 
 ## :books: Papers
 
-Jian Hu, Li Tao, June Yang, Chandler Zhou. [**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2308.12050.pdf).  _arXiv preprint 2023_ </br>
+* Jian Hu, Li Tao, June Yang, Chandler Zhou. [**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2308.12050.pdf).  _arXiv preprint 2023_ </br>
 
 * AN Lee, CJ Hunter, N Ruiz. [**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**](https://arxiv.org/pdf/2308.07317.pdf). _arXiv preprint 2023_ </br>
 
