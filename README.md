@@ -47,6 +47,8 @@
 
 ## :books: Papers
 
+* H Dong, W Xiong, D Goyal, R Pan, S Diao, J Zhang, K Shum, T Zhang. [**Raft: Reward ranked finetuning for generative foundation model alignment**](https://arxiv.org/pdf/2304.06767.pdf). _arXiv preprint 2023_ </br>
+
 * Jian Hu, Li Tao, June Yang, Chandler Zhou. [**Aligning Language Models with Offline Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2308.12050.pdf).  _arXiv preprint 2023_ </br>
 
 * AN Lee, CJ Hunter, N Ruiz. [**Platypus: Quick, Cheap, and Powerful Refinement of LLMs**](https://arxiv.org/pdf/2308.07317.pdf). _arXiv preprint 2023_ </br>
